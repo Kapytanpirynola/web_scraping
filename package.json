@@ -1,0 +1,25 @@
+{
+  "name": "web_scraper",
+  "version": "1.0.0",
+  "description": "A fullstack project that scrapes job listings from the web, analyzes trends in the job market, and visualizes insights through an interactive dashboard.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kapytanpirynola/web_scraping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Kapytanpirynola/web_scraping/issues"
+  },
+  "homepage": "https://github.com/Kapytanpirynola/web_scraping#readme",
+  "dependencies": {
+    "axios": "^1.13.6",
+    "cheerio": "^1.2.0"
+  }
+}
